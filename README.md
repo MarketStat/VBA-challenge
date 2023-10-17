@@ -12,6 +12,8 @@ This was achieved by using nested loops in each worksheet to look through every 
 
 **Conclusion**
 
+RYU had the largest increase of 190.03% in 2019, RKS had the largest decrease of 91.60% in 2019 and ZQD had the largest volume in 2019 of 4.37E+12
+
 Largest Increase per Year:
 2018 - THB 141.42%
 2019 - RYU 190.03%
