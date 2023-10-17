@@ -28,3 +28,6 @@ Largest Total Volume per Year:
 2018 - QKN 1.69E+12
 2019 - ZQD 4.37E+12
 2020 - QKN 3.45E+12
+
+**References**
+Note on additional resources - used [Stack Overflow](https://www.automateexcel.com/vba/sum-function/) for the sum function for adding values together, I have used ScreenUpdating in previous work, loops come from reviewing previous coursework and other VBA courses previously taken.
